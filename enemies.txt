@@ -1,0 +1,14 @@
+Zombie,5,2,6
+Ghoul,8,3,4
+Giant Spider,10,4,2
+Goblin,2,2,10
+Troll,5,2,6
+Skeleton,4,4,4
+Ogre,10,8,2
+Zombie,5,2,6
+Ghoul,8,3,4
+Giant Spider,10,4,2
+Goblin,2,2,10
+Troll,5,2,6
+Skeleton,4,4,4
+Ogre,10,8,2

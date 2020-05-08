@@ -1,0 +1,6 @@
+c,e,L,c,o,E
+c,o,e,c,L,o
+o,c,E,o,E,e
+c,o,E,L,e,o
+o,c,c,E,o,c
+E,e,S,o,c,o
