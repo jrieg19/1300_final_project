@@ -4,22 +4,12 @@ using namespace std;
 
 Item::Item()
 {
-    itemType = Nothing;
-}
-
-int Item::getItemType()
-{
-    return int(itemType);
+    name = "null";
 }
 
 string Item::getItemName()
 {
     return name;
-}
-
-void Item::setItemType(int type)
-{
-    itemType = item_type(type);
 }
 
 void Item::setItemName(string itemName)
